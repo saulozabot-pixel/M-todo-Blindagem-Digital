@@ -130,9 +130,9 @@ function App() {
             </div>
           </div>
 
-          <button className="btn-primary" style={{ width: '100%', maxWidth: '400px' }}>
+          <a href="https://pay.kiwify.com.br/TnHlSuk" className="btn-primary" style={{ width: '100%', maxWidth: '400px', display: 'inline-block' }}>
             👉 Baixar Guia por R$67 Agora
-          </button>
+          </a>
 
           <p style={{ marginTop: '1.5rem', fontSize: '0.9rem' }}>
             🔒 Pagamento 100% Seguro | 7 Dias de Garantia
