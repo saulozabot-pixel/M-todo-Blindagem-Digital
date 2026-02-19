@@ -15,7 +15,7 @@ function App() {
           <p style={{ fontSize: '1.2rem', maxWidth: '600px', margin: '0 auto 2.5rem auto', color: 'var(--light-slate)' }}>
             Descubra o que realmente é possível solicitar legalmente para proteger sua imagem, sem promessas irreais ou atalhos duvidosos.
           </p>
-          <a href="#oferta" className="btn-primary">Acessar Guia Completo Agora</a>
+          <a href="#oferta" className="btn-primary">👉 Quero Entender Meus Direitos Digitais</a>
 
           <p style={{ marginTop: '2rem', fontSize: '0.9rem', color: 'var(--slate)' }}>
             Baseado na <strong>LGPD (Lei 13.709/2018)</strong> e diretrizes oficiais do Google.
@@ -131,7 +131,7 @@ function App() {
           </div>
 
           <button className="btn-primary" style={{ width: '100%', maxWidth: '400px' }}>
-            ACESSAR GUIA COMPLETO AGORA
+            👉 Baixar Guia por R$67 Agora
           </button>
 
           <p style={{ marginTop: '1.5rem', fontSize: '0.9rem' }}>
